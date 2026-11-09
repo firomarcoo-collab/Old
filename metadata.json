@@ -1,0 +1,6 @@
+{
+  "name": "Gemini GitHub Bridge - جيميناي مع غيت هب",
+  "description": "Connect GitHub repositories with Google Gemini AI for automated code reviews, PR analysis, repository scanning, and GitHub Actions workflow generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
